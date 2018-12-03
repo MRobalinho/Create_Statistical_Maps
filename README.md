@@ -2,6 +2,8 @@
 
 https://app.datawrapper.de/map/e0v1D/data
 
+Complete article on Medium:  https://medium.com/datadriveninvestor/placing-statistics-on-geographic-maps-can-be-simple-d9c6d573b5ae
+
 
 Probably ever had to put their stats on a geographic map.
 
